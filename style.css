@@ -1,7 +1,26 @@
-.blog-footer {
+.mastfoot {
     padding: 2.5rem 0;
     color: #999;
     text-align: center;
     background-color: #f9f9f9;
     border-top: .05rem solid #e5e5e5;
+}
+
+.cover-container {
+    max-width: 42em;
+}
+.cover {
+    padding: 0 1.5rem;
+}
+.lead {
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+.cover .btn-lg {
+    padding: .75rem 1.25rem;
+    font-weight: 700;
+}
+.inner{
+    color: #fff;
+    text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
 }
